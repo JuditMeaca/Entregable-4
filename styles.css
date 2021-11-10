@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(243, 244, 245);
+    padding: 0;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: .1em;
+    font-size: 1.5em;
+    text-align: center;
+  }
+  
+  .over-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+  }
+  
+  .container {
+    align-self: center;
+  }
+  
+  .title-container {
+    justify-self: center;
+    margin-bottom: 15px;
+  }
+  
+  .menu {
+    min-width: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+  
+  .titles {
+    padding: 0.5em;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .button {
+    text-decoration: none;
+    background-color: rgb(86, 94, 101);
+    color: rgb(218, 220, 222);
+    padding: 7px 30px;
+  }
+  
+  .title1 {
+    background: rgb(149, 199, 174);
+    color: rgb(86, 94, 101);
+    padding: 7px 30px;
+  }
+  
+  .title2 {
+    background-color: rgb(199, 149, 174);
+    color: rgb(86, 94, 101);
+    padding: 7px 30px;
+  }
+  
+  .title3 {
+    background-color: rgb(149, 174, 199);
+    color: rgb(86, 94, 101);
+    padding: 7px 30px;
+  }
+  
+  a:hover {
+    background-color: #343c43;
+  }
