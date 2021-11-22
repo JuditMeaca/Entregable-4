@@ -40,25 +40,25 @@ body {
   .button {
     text-decoration: none;
     background-color: rgb(86, 94, 101);
-    color: rgb(218, 220, 222);
+    color: white;
     padding: 7px 30px;
   }
   
   .title1 {
-    background: rgb(149, 199, 174);
-    color: rgb(86, 94, 101);
+    background: #2BC26B;
+    color: white;
     padding: 7px 30px;
   }
   
   .title2 {
-    background-color: rgb(199, 149, 174);
-    color: rgb(86, 94, 101);
+    background-color: #C04AA4;
+    color: white;
     padding: 7px 30px;
   }
   
   .title3 {
-    background-color: rgb(149, 174, 199);
-    color: rgb(86, 94, 101);
+    background-color: #192A56;
+    color: white;
     padding: 7px 30px;
   }
   
